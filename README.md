@@ -12,6 +12,6 @@ Hey there! I'm Wolfentech, a passionate developer with expertise in a variety of
 ## 🌐 Connect with Me
 Feel free to connect with me on these platforms:
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wolfentech)
-- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-4d4dff?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-user-id)
-- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/your-username)
-- [![Hacker](https://img.shields.io/badge/Hacker-000000?style=for-the-badge&logo=hack-the-box&logoColor=green)](https://www.hackthebox.eu/)
+- [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-4d4dff?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/13821103/arivvid27)
+- [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/arivvid27)
+- [![Hacker](https://img.shields.io/badge/Hacker-000000?style=for-the-badge&logo=hack-the-box&logoColor=green)](https://www.hackthebox.com/)
